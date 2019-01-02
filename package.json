@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-list-style",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "List-style utilities for Tailwind CSS.",
   "main": "index.js",
   "repository": {
