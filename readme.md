@@ -24,22 +24,22 @@ require('tailwindcss-list-style')(['responsive']),
 ```
 
 ```css
-.list-disc { list-style-type: 'disc'; }
-.list-circle { list-style-type: 'circle'; }
-.list-square { list-style-type: 'square'; }
-.list-decimal { list-style-type: 'decimal'; }
-.list-decimal-leading-zero { list-style-type: 'decimal-leading-zero'; }
-.list-lower-roman { list-style-type: 'lower-roman'; }
-.list-upper-roman { list-style-type: 'upper-roman'; }
-.list-lower-greek { list-style-type: 'lower-greek'; }
-.list-lower-latin { list-style-type: 'lower-latin'; }
-.list-upper-latin { list-style-type: 'upper-latin'; }
-.list-armenian { list-style-type: 'armenian'; }
-.list-georgian { list-style-type: 'georgian'; }
-.list-lower-alpha { list-style-type: 'lower-alpha'; }
-.list-upper-alpha { list-style-type: 'upper-alpha'; }
-.list-none { list-style-type: 'none'; }
+.list-disc { list-style-type: disc; }
+.list-circle { list-style-type: circle; }
+.list-square { list-style-type: square; }
+.list-decimal { list-style-type: decimal; }
+.list-decimal-leading-zero { list-style-type: decimal-leading-zero; }
+.list-lower-roman { list-style-type: lower-roman; }
+.list-upper-roman { list-style-type: upper-roman; }
+.list-lower-greek { list-style-type: lower-greek; }
+.list-lower-latin { list-style-type: lower-latin; }
+.list-upper-latin { list-style-type: upper-latin; }
+.list-armenian { list-style-type: armenian; }
+.list-georgian { list-style-type: georgian; }
+.list-lower-alpha { list-style-type: lower-alpha; }
+.list-upper-alpha { list-style-type: upper-alpha; }
+.list-none { list-style-type: none; }
 
-.list-inside { list-style-position: 'inside'; }
-.list-outside { list-style-position: 'outside'; }
+.list-inside { list-style-position: inside; }
+.list-outside { list-style-position: outside; }
 ```
