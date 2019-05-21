@@ -1,5 +1,7 @@
 # Tailwind CSS List Style Plugin
 
+**Deprecated due to Tailwind CSS supporting both `listStyleType` and `listStylePosition` as of v1.0.0.**
+
 This plugin adds utilities to use list-style with Tailwind CSS.
 
 ## Installation
